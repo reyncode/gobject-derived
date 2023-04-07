@@ -1,0 +1,12 @@
+# Executable files without extensions
+*
+!*/
+!*.*
+
+# Executables
+*.exe
+*.out
+*.app
+
+# clang
+compile_flags.txt
